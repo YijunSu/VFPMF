@@ -5,7 +5,7 @@ This is our official implementation for the paper:
 
 If you use the codes, please cite our paper . Thanks!
 
-## Models
+## Model
 
 The core model is `src/librec/ranking/IEPMF.java`.
 
