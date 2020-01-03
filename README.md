@@ -1,0 +1,1 @@
+Experiments codes for TKDE paper "Modeling Product's Intrinsic and Extrinsic Characteristics for Recommender Systems"
