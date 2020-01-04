@@ -11,6 +11,7 @@ The core model is `src/librec/ranking/IEPMF.java`.
 
 ## Dataset
 We exhibit a small dataset `Office_Products.txt`, in which the columns indicate the `user_id`, `item_id`, `rating score`, respectively.
+Please first unzip the file `Extrinsic_features_Office_Products.zip`.
 
 ## Quick Start
 
